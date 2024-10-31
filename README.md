@@ -20,8 +20,8 @@ echo $i2
 ```
 Le script affiche le contenu d'un commande et le contenu d'une chaine de caractere \
 L1 : Utiliser l' interpreteur bash \
-L2 : La chaine entre `` est exécutée, le resultat est stocké dans i1 \
-L3 : La chaine entre "" reste une chaine de caractere tandis que la chaine entre `` sera executé mais sera partie du chaine de caractere, et le resutat est stocké dans i2 \
+L2 : La chaine entre \`\` est exécutée, le resultat est stocké dans i1 \
+L3 : La chaine entre "" reste une chaine de caractere tandis que la chaine entre \`\` sera executé mais sera partie du chaine de caractere, et le resutat est stocké dans i2 \
 L4 : affiche le contenu de i1 \
 L5 : affiche le contenu de i2 \
 ## 3 - Ecrire un script qui prend en entrée plusieurs arguments et qui va afficher :
